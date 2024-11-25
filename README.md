@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Michael!
+🎓 Data Scientist | 🔍 Problem Solver | 📊 Data Enthusiast
 
-<!--
-**MSVWalker/MSVWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I love working on data science projects that turn numbers into stories.
 
-Here are some ideas to get you started:
+### 🌱 Currently working on:
+- HuggingFace NLP intro course
+- Building a Data Science project portfolio 
+- Creating a financial dashboard for real estate investments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Featured Projects:
+- [Image Classification using Convolutional Neural Networks](https://github.com/MSVWalker/NeuroVision)
+- [Blood Sugar Level Prediction with XGBoost](https://github.com/MSVWalker/GlucoPredict)
+- [Web-Based Dashboards](https://github.com/your-repo/Dashboards)
+
+### 🌟 Skills:
+- Python, pandas, scikit-learn
+- Data visualization (Matplotlib, Seaborn)
+- SQL, Jupyter Notebooks
+- 700 Hour Certification in Data Science
+- Physics Major, 6 years in R&D Engineering in Semiconductor Manufacturing
+
+### 📫 How to reach me:
+- michaelsvwalker@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/msvwalker/)
+
+### ⚡ Fun fact:
+I love to cook! Every year, my wife and I make a video and attach a QR code to all of our Christmas cards. Chicken and Waffles is our go-to crowd-pleaser.
+
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data%20Science-orange)
