@@ -14,9 +14,7 @@ Welcome to my GitHub profile! I love working on data science projects that turn 
 - [Web-Based Dashboards](https://github.com/your-repo/Dashboards)
 
 ### 🌟 Skills:
-- Python, pandas, scikit-learn
-- Data visualization (Matplotlib, Seaborn)
-- SQL, Jupyter Notebooks
+- Python, pandas, scikit-learn, SQL, Jupyter Notebooks
 - 700 Hour Certification in Data Science
 - Physics Major, 6 years in R&D Engineering in Semiconductor Manufacturing
 
