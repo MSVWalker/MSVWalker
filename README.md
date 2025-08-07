@@ -1,29 +1,42 @@
-# 👋 Hello, I'm Michael!
-🎓 Data Scientist | 🔍 Problem Solver | 📊 Data Enthusiast
+# 👋 Hi, I'm Michael Walker
+🎓 **Data Scientist** | 🔍 **Problem Solver** | 📊 **Turning Numbers into Stories**
 
-Welcome to my GitHub profile! I love working on data science projects that turn numbers into stories.
+I turn complex datasets into tools that deliver real-world value. With a background in **physics**, 6 years in **semiconductor R&D**, and **real estate analytics** experience, I bridge the gap between technical expertise and business needs.
 
-### 🌱 Currently working on:
-- HuggingFace NLP intro course
-- Building a Data Science project portfolio 
-- Creating a financial dashboard for real estate investments
+---
 
-### 📈 Featured Projects:
-- [Image Classification using Convolutional Neural Networks](https://github.com/MSVWalker/NeuroVision)
-- [Blood Sugar Level Prediction with XGBoost](https://github.com/MSVWalker/GlucoPredict)
-- [Web-Based Dashboards](https://github.com/your-repo/Dashboards)
+## 🚀 Currently Building
+- 🏠 **RAG-Powered Property Management Assistant** – Retrieval-Augmented Generation system helping VAs respond to tenant and landlord queries.  
+- 🌦 **Interactive Historical Weather App** – Streamlit app visualizing local historical weather trends with a clean, mobile-friendly UI.  
 
-### 🌟 Skills:
-- Python, pandas, scikit-learn, SQL, Jupyter Notebooks
-- 700 Hour Certification in Data Science
-- Physics Major, 6 years in R&D Engineering in Semiconductor Manufacturing
+---
 
-### 📫 How to reach me:
-- michaelsvwalker@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/msvwalker/)
+## 📈 Featured Projects
+- 🖼 **[NeuroVision](https://github.com/MSVWalker/NeuroVision)** – Image classification using CNNs  
+- 🩺 **[GlucoPredict](https://github.com/MSVWalker/GlucoPredict)** – Predicting blood sugar levels with XGBoost  
+- 📊 **[Web Dashboards](https://github.com/your-repo/Dashboards)** – Interactive, web-based data visualizations  
 
-### ⚡ Fun fact:
-I love to cook! Every year, my wife and I make a video and attach a QR code to all of our Christmas cards. Chicken and Waffles is our go-to crowd-pleaser.
+---
+
+## 💡 Skills & Tools
+- **Languages & Libraries:** Python, pandas, scikit-learn, SQL, Jupyter Notebooks  
+- **Data Science Training:** 700-Hour Professional Certification  
+- **Domain Expertise:** Semiconductor Manufacturing, Real Estate Analytics, Predictive Modeling  
+
+---
+
+## 📫 Let's Connect
+- ✉ **Email:** michaelsvwalker@gmail.com  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/msvwalker/)  
+
+---
+
+## ⚡ Fun Fact
+Every year, my wife and I create a holiday cooking video with a QR code in our Christmas cards. Our signature dish? **Chicken & Waffles**. 🍗🧇
+
+---
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-orange)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=postgresql)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-green)
