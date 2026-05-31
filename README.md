@@ -1,42 +1,107 @@
-# 👋 Hi, I'm Michael Walker
-🎓 **Data Scientist** | 🔍 **Problem Solver** | 📊 **Turning Numbers into Stories**
+# Michael Walker
 
-I turn complex datasets into tools that deliver real-world value. With a background in **physics**, 6 years in **semiconductor R&D**, and **real estate analytics** experience, I bridge the gap between technical expertise and business needs.
+Data Engineer & ML Analyst  
+Building Python/SQL data pipelines, forecasting models, operational dashboards, and full-stack data products.
 
----
+I work at the intersection of data engineering, machine learning, and operational decision-making. My background spans manufacturing analytics, semiconductor R&D, real estate investment analytics, and full-stack application development.
 
-## 🚀 Currently Building
-- 🏠 **RAG-Powered Property Management Assistant** – Retrieval-Augmented Generation system helping VAs respond to tenant and landlord queries.  
-- 🌦 **Interactive Historical Weather App** – Streamlit app visualizing local historical weather trends with a clean, mobile-friendly UI.  
+I like building practical systems: tools that ingest messy data, transform it into reliable models, and deliver useful outputs through dashboards, APIs, and production-facing apps.
 
 ---
 
-## 📈 Featured Projects
-- 🖼 **[NeuroVision](https://github.com/MSVWalker/NeuroVision)** – Image classification using CNNs  
-- 🩺 **[GlucoPredict](https://github.com/MSVWalker/GlucoPredict)** – Predicting blood sugar levels with XGBoost  
-- 📊 **[Web Dashboards](https://github.com/your-repo/Dashboards)** – Interactive, web-based data visualizations  
+## Current Focus
+
+- Operational data products for manufacturing: forecasting, inventory allocation, ERP-connected pipelines, and internal dashboards.
+- Machine learning workflows: time-series forecasting, optimization models, XGBoost, model validation, and decision-support systems.
+- Full-stack data apps using FastAPI, PostgreSQL, dbt, Next.js, React, and modern visualization libraries.
+- AI/LLM applications using RAG, LangChain, vector stores, and OpenAI APIs.
 
 ---
 
-## 💡 Skills & Tools
-- **Languages & Libraries:** Python, pandas, scikit-learn, SQL, Jupyter Notebooks  
-- **Data Science Training:** 700-Hour Professional Certification  
-- **Domain Expertise:** Semiconductor Manufacturing, Real Estate Analytics, Predictive Modeling  
+## Featured Projects
+
+### Bellingham Weather Analytics App  
+Full-stack weather analytics app for exploring historical weather trends, anomalies, and rolling temperature patterns.
+
+Stack: Python, PostgreSQL/Neon, dbt, FastAPI, Next.js, Tailwind, Recharts, GitHub Actions  
+
+Highlights:
+- Ingests and models historical weather data
+- Serves curated analytics through a FastAPI backend
+- Visualizes daily trends, anomalies, and historical comparisons
+- Designed as a mobile-friendly public data product
 
 ---
 
-## 📫 Let's Connect
-- ✉ **Email:** michaelsvwalker@gmail.com  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/msvwalker/)  
+### Chive Cutter — Reddit Devvit Game  
+Full-stack Reddit-native game with 100k+ plays, persistent scoring, and Redis-backed leaderboard tracking. Recognized by Reddit as a 2025 Devvit Award winner.
+
+Stack: Reddit Devvit, TypeScript/JavaScript, Redis, WebView, HTML/CSS  
+
+Highlights:
+- Built frontend gameplay and backend game logic
+- Implemented persistent user scoring and leaderboard state
+- Shipped an interactive product inside the Reddit ecosystem
+- Designed for viral, low-friction community engagement
 
 ---
 
-## ⚡ Fun Fact
-Every year, my wife and I create a holiday cooking video with a QR code in our Christmas cards. Our signature dish? **Chicken & Waffles**. 🍗🧇
+### GlucoPredict  
+Machine learning project for predicting blood glucose trends from CGM and lifestyle data.
+
+Stack: Python, pandas, scikit-learn, XGBoost, Streamlit, SHAP  
+
+Highlights:
+- Feature-engineered CGM sequences and lifestyle signals
+- Trained XGBoost models for predictive health analytics
+- Added interpretability with SHAP
+- Built an interactive Streamlit app for scenario testing
 
 ---
 
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data%20Science-orange)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=postgresql)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-green)
+### RAG-Powered Property Management Assistant  
+Retrieval-augmented assistant for helping virtual assistants respond to tenant, landlord, lease, and work-order questions.
+
+Stack: Python, LangChain, OpenAI API, vector store, FastAPI  
+
+Highlights:
+- Retrieves relevant lease, SOP, and work-order context
+- Generates standardized draft responses
+- Designed for practical property-management operations
+- Focused on reducing response time and improving consistency
+
+---
+
+## Technical Toolkit
+
+Languages & Data:  
+Python, SQL, JavaScript/TypeScript, pandas, NumPy
+
+Data Engineering:  
+dbt, Airflow, ETL, data modeling, PostgreSQL, Snowflake, BigQuery, Docker, Git/GitHub, AWS EC2/S3
+
+Machine Learning & Analytics:  
+scikit-learn, XGBoost, time-series forecasting, linear programming, Monte Carlo simulation, A/B testing, hypothesis testing, DOE
+
+Apps & Visualization:  
+FastAPI, Streamlit, Next.js, React, Tailwind, Recharts, Tableau, Power BI, Looker
+
+AI/LLM:  
+LangChain, RAG, vector search, OpenAI API
+
+---
+
+## Background
+
+- Senior Operations Data Analyst working on manufacturing analytics, ERP-connected pipelines, forecasting, inventory optimization, and internal data products.
+- Former semiconductor R&D engineer/data analyst with 6 years of experience in plasma etch process development, experimental design, equipment data, and ML-driven process analysis.
+- Real estate analytics operator building data workflows for underwriting, acquisition scoring, dashboards, and investment decision support.
+- M.S. Computer Science candidate at the University of Colorado Boulder with a focus on AI and data systems.
+
+---
+
+## Connect
+
+- LinkedIn: linkedin.com/in/msvwalker
+- GitHub: github.com/MSVWalker
+- Email: michaelsvwalker@gmail.com
